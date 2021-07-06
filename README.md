@@ -1,5 +1,6 @@
 # Typing_Speed_Test
-Typing speed test project of TEAM 7
+Typing speed test project of TEAM 75, PythonDUO
+Armaan Sharma 190040020, Amit Kumar 190040013
 
 The code has been explained here :: https://docs.google.com/document/d/18OId19CoJfVgDpFNBkjRCKQLGpEEFn-SYKn1IJnkRAM/edit?usp=sharing
 
